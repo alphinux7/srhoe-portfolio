@@ -28,7 +28,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const EMAIL = "shroemgmt@gmail.com";
+const EMAIL = "srhoemgmt@gmail.com";
 
 type Platform = {
   name: string;
